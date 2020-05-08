@@ -47895,14 +47895,4 @@
       apn="web.be"
       type="default,supl"
   />
-	
-  <apn carrier="Rakuten"
-       mcc="440"
-       mnc="11"
-       apn="rakuten.jp"
-       type="default,supl,dun"
-       protocol="IPV4V6"
-       roaming_protocol="IPV4V6"
-  />
-       
 </apns>
